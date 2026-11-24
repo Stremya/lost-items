@@ -1,11 +1,24 @@
-# lost-items
-Project: Lost Items
+# Lost items
+Платформа для потерянных и найденных вещей в 
 
-Members:
-Новиков Иван - Tech Lead / Developer,
-Нагаев Даниил - UX / UI,
-Филиппов Роман - Product Owner,
-Будаев Алексей - Scrum Master / Developer,
-Халиулин Алексей - Analyst
+## Стек технологий
+* **Язык и платформа:** C# / .NET 8
+* **Интерфейс:** Avalonia UI
+* **База данных:** Entity Framework Core + MS SQL Server
+
+## Полезные ссылки
+* Макеты интерфейса в Figma(пусто)
+* Техническое задание(пусто)
+* Доска задач в Trello(пусто)
+
+## Как запустить проект локально
+
+
+## Команда проекта
+* **Tech Lead / Architect / Developer** - Новиков Иван,
+* **UX / UI** - Нагаев Даниил,
+* **Product Owner** - Филиппов Роман,
+* **Scrum Master / Developer** - Будаев Алексей,
+* **Analyst** - Халиулин Алексей
 
 
