@@ -8,8 +8,8 @@
 
 ## Полезные ссылки
 * Макеты интерфейса в Figma(пусто)
-* Техническое задание(пусто)
-* Доска задач в Trello(пусто)
+* Техническое задание(`https://docs.google.com/document/d/1y7ZLZgFsa1skX0PHOjBywl0fPOACtXfA/edit#heading=h.c3d9lt7mropw`)
+* Доска задач в Trello(`https://trello.com/b/vcd6KMzL/losty-project`)
 
 ## Как запустить проект локально
 ### 1. Подготовка среды
