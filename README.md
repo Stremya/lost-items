@@ -15,10 +15,10 @@
 
 
 ## Команда проекта
-* **Tech Lead / Architect / Developer** - Новиков Иван,
-* **UX / UI** - Нагаев Даниил,
-* **Product Owner** - Филиппов Роман,
-* **Scrum Master / Developer** - Будаев Алексей,
+* **Tech Lead / Architect / Developer** - Новиков Иван
+* **UX / UI** - Нагаев Даниил
+* **Product Owner** - Филиппов Роман
+* **Scrum Master / Developer** - Будаев Алексей
 * **Analyst** - Халиулин Алексей
 
 
