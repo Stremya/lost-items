@@ -2,14 +2,15 @@
 Платформа для потерянных и найденных вещей в учебных заведениях России
 
 ## Стек технологий
-* **Язык и платформа:** C# / .NET 8
+* **Язык и платформа:** C# / .NET 10
 * **Интерфейс:** Avalonia UI
 * **База данных:** Entity Framework Core + MS SQL Server
 
 ## Полезные ссылки
 * Макеты интерфейса в Figma(пусто)
-* Техническое задание(`https://docs.google.com/document/d/1y7ZLZgFsa1skX0PHOjBywl0fPOACtXfA/edit#heading=h.c3d9lt7mropw`)
-* Доска задач в Trello(`https://trello.com/b/vcd6KMzL/losty-project`)
+* [Техническое задание](https://docs.google.com/document/d/1y7ZLZgFsa1skX0PHOjBywl0fPOACtXfA/edit)
+* [Доска задач в Trello](https://trello.com/b/vcd6KMzL/losty-project)
+* [Тех документация проекта](https://docs.google.com/document/d/1-M1iRw5EwJQhkv7gCY965npToaI48vxzHUBdEsFEWFU/edit?hl=RU&tab=t.0)
 
 ## Как запустить проект локально
 ### 1. Подготовка среды
